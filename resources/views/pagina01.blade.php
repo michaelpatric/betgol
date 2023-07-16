@@ -19,6 +19,7 @@
 <h1>Oláaaaaaaaaa</h1>
 
 <p>Fazendo um novo paragrafo</p>
+<span>Olá galera tudo bem?</span>
 
 </body>
 </html>
